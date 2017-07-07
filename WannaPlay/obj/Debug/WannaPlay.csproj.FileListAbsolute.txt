@@ -1,0 +1,130 @@
+c:\users\t-50\documents\visual studio 2015\Projects\WannaPlay\WannaPlay\bin\Debug\WannaPlay.exe.config
+c:\users\t-50\documents\visual studio 2015\Projects\WannaPlay\WannaPlay\bin\Debug\WannaPlay.exe
+c:\users\t-50\documents\visual studio 2015\Projects\WannaPlay\WannaPlay\bin\Debug\WannaPlay.pdb
+c:\users\t-50\documents\visual studio 2015\Projects\WannaPlay\WannaPlay\obj\Debug\WannaPlay.Form1.resources
+c:\users\t-50\documents\visual studio 2015\Projects\WannaPlay\WannaPlay\obj\Debug\WannaPlay.Properties.Resources.resources
+c:\users\t-50\documents\visual studio 2015\Projects\WannaPlay\WannaPlay\obj\Debug\WannaPlay.csproj.GenerateResource.Cache
+c:\users\t-50\documents\visual studio 2015\Projects\WannaPlay\WannaPlay\obj\Debug\WannaPlay.exe
+c:\users\t-50\documents\visual studio 2015\Projects\WannaPlay\WannaPlay\obj\Debug\WannaPlay.pdb
+C:\Users\T-50\documents\visual studio 2015\Projects\WannaPlay\WannaPlay\obj\Debug\WannaPlay.gameFootageForm.resources
+C:\Users\T-50\documents\visual studio 2015\Projects\WannaPlay\WannaPlay\bin\Debug\Emgu.CV.UI.dll
+C:\Users\T-50\documents\visual studio 2015\Projects\WannaPlay\WannaPlay\bin\Debug\Emgu.CV.UI.GL.dll
+C:\Users\T-50\documents\visual studio 2015\Projects\WannaPlay\WannaPlay\bin\Debug\Emgu.CV.World.dll
+C:\Users\T-50\documents\visual studio 2015\Projects\WannaPlay\WannaPlay\bin\Debug\ZedGraph.dll
+C:\Users\T-50\documents\visual studio 2015\Projects\WannaPlay\WannaPlay\bin\Debug\Emgu.CV.UI.xml
+C:\Users\T-50\documents\visual studio 2015\Projects\WannaPlay\WannaPlay\bin\Debug\Emgu.CV.UI.GL.xml
+C:\Users\T-50\documents\visual studio 2015\Projects\WannaPlay\WannaPlay\bin\Debug\Emgu.CV.World.xml
+C:\Users\T-50\documents\visual studio 2015\Projects\WannaPlay\WannaPlay\obj\Debug\WannaPlay.csprojResolveAssemblyReference.cache
+C:\Users\กล้วยไข่อันเล็ก\Documents\Visual Studio 2015\Projects\WannaPlay\WannaPlay\bin\Debug\WannaPlay.exe.config
+C:\Users\กล้วยไข่อันเล็ก\Documents\Visual Studio 2015\Projects\WannaPlay\WannaPlay\obj\Debug\WannaPlay.exe
+C:\Users\กล้วยไข่อันเล็ก\Documents\Visual Studio 2015\Projects\WannaPlay\WannaPlay\obj\Debug\WannaPlay.pdb
+C:\Users\กล้วยไข่อันเล็ก\Documents\Visual Studio 2015\Projects\WannaPlay\WannaPlay\bin\Debug\WannaPlay.exe
+C:\Users\กล้วยไข่อันเล็ก\Documents\Visual Studio 2015\Projects\WannaPlay\WannaPlay\bin\Debug\WannaPlay.pdb
+C:\Users\กล้วยไข่อันเล็ก\Documents\Visual Studio 2015\Projects\WannaPlay\WannaPlay\bin\Debug\ZedGraph.dll
+C:\Users\กล้วยไข่อันเล็ก\Documents\Visual Studio 2015\Projects\WannaPlay\WannaPlay\bin\Debug\Emgu.CV.UI.xml
+C:\Users\กล้วยไข่อันเล็ก\Documents\Visual Studio 2015\Projects\WannaPlay\WannaPlay\bin\Debug\Emgu.CV.UI.GL.xml
+C:\Users\กล้วยไข่อันเล็ก\Documents\Visual Studio 2015\Projects\WannaPlay\WannaPlay\bin\Debug\Emgu.CV.World.xml
+C:\Users\กล้วยไข่อันเล็ก\Documents\Visual Studio 2015\Projects\WannaPlay\WannaPlay\obj\Debug\WannaPlay.Form1.resources
+C:\Users\กล้วยไข่อันเล็ก\Documents\Visual Studio 2015\Projects\WannaPlay\WannaPlay\obj\Debug\WannaPlay.gameFootageForm.resources
+C:\Users\กล้วยไข่อันเล็ก\Documents\Visual Studio 2015\Projects\WannaPlay\WannaPlay\obj\Debug\WannaPlay.Properties.Resources.resources
+C:\Users\กล้วยไข่อันเล็ก\Documents\Visual Studio 2015\Projects\WannaPlay\WannaPlay\obj\Debug\WannaPlay.csproj.GenerateResource.Cache
+C:\Users\กล้วยไข่อันเล็ก\Documents\Visual Studio 2015\Projects\WannaPlay\WannaPlay\bin\Debug\Emgu.CV.UI.dll
+C:\Users\กล้วยไข่อันเล็ก\Documents\Visual Studio 2015\Projects\WannaPlay\WannaPlay\bin\Debug\Emgu.CV.UI.GL.dll
+C:\Users\กล้วยไข่อันเล็ก\Documents\Visual Studio 2015\Projects\WannaPlay\WannaPlay\bin\Debug\Emgu.CV.World.dll
+C:\Users\กล้วยไข่อันเล็ก\Documents\Visual Studio 2015\Projects\WannaPlay\WannaPlay\obj\Debug\WannaPlay.csprojResolveAssemblyReference.cache
+D:\Visual Studio 2015\Projects\WannaPlay\WannaPlay\bin\Debug\WannaPlay.exe.config
+D:\Visual Studio 2015\Projects\WannaPlay\WannaPlay\obj\Debug\WannaPlay.exe
+D:\Visual Studio 2015\Projects\WannaPlay\WannaPlay\obj\Debug\WannaPlay.pdb
+D:\Visual Studio 2015\Projects\WannaPlay\WannaPlay\bin\Debug\WannaPlay.exe
+D:\Visual Studio 2015\Projects\WannaPlay\WannaPlay\bin\Debug\WannaPlay.pdb
+D:\Visual Studio 2015\Projects\WannaPlay\WannaPlay\bin\Debug\ZedGraph.dll
+D:\Visual Studio 2015\Projects\WannaPlay\WannaPlay\bin\Debug\Emgu.CV.UI.xml
+D:\Visual Studio 2015\Projects\WannaPlay\WannaPlay\bin\Debug\Emgu.CV.UI.GL.xml
+D:\Visual Studio 2015\Projects\WannaPlay\WannaPlay\bin\Debug\Emgu.CV.World.xml
+D:\Visual Studio 2015\Projects\WannaPlay\WannaPlay\obj\Debug\WannaPlay.Form1.resources
+D:\Visual Studio 2015\Projects\WannaPlay\WannaPlay\obj\Debug\WannaPlay.gameFootageForm.resources
+D:\Visual Studio 2015\Projects\WannaPlay\WannaPlay\obj\Debug\WannaPlay.Properties.Resources.resources
+D:\Visual Studio 2015\Projects\WannaPlay\WannaPlay\obj\Debug\WannaPlay.csproj.GenerateResource.Cache
+D:\Visual Studio 2015\Projects\WannaPlay\WannaPlay\bin\Debug\Emgu.CV.DebuggerVisualizers.VS2015.dll
+D:\Visual Studio 2015\Projects\WannaPlay\WannaPlay\bin\Debug\Microsoft.VisualStudio.DebuggerVisualizers.dll
+D:\Visual Studio 2015\Projects\WannaPlay\WannaPlay\bin\Debug\Microsoft.VisualStudio.DebuggerVisualizers.xml
+D:\Visual Studio 2015\Projects\WannaPlay\WannaPlay\bin\Debug\Emgu.CV.UI.dll
+D:\Visual Studio 2015\Projects\WannaPlay\WannaPlay\bin\Debug\Emgu.CV.UI.GL.dll
+D:\Visual Studio 2015\Projects\WannaPlay\WannaPlay\bin\Debug\Emgu.CV.World.dll
+D:\Visual Studio 2015\Projects\WannaPlay\WannaPlay\bin\Debug\MySql.Data.dll
+D:\Visual Studio 2015\Projects\WannaPlay\WannaPlay\bin\Debug\System.Data.SQLite.dll
+D:\Visual Studio 2015\Projects\WannaPlay\WannaPlay\bin\Debug\System.Data.SQLite.EF6.dll
+D:\Visual Studio 2015\Projects\WannaPlay\WannaPlay\bin\Debug\System.Data.SQLite.Linq.dll
+D:\Visual Studio 2015\Projects\WannaPlay\WannaPlay\bin\Debug\System.Data.SQLite.xml
+D:\Visual Studio 2015\Projects\WannaPlay\WannaPlay\bin\Debug\EntityFramework.dll
+D:\Visual Studio 2015\Projects\WannaPlay\WannaPlay\bin\Debug\EntityFramework.SqlServer.dll
+D:\Visual Studio 2015\Projects\WannaPlay\WannaPlay\bin\Debug\EntityFramework.xml
+D:\Visual Studio 2015\Projects\WannaPlay\WannaPlay\bin\Debug\EntityFramework.SqlServer.xml
+D:\Visual Studio 2015\Projects\WannaPlay\WannaPlay\obj\Debug\WannaPlay.csprojResolveAssemblyReference.cache
+C:\Users\Zeus\Documents\Visual Studio 2015\Projects\WannaPlay\WannaPlay\bin\Debug\WannaPlay.exe.config
+C:\Users\Zeus\Documents\Visual Studio 2015\Projects\WannaPlay\WannaPlay\obj\Debug\WannaPlay.exe
+C:\Users\Zeus\Documents\Visual Studio 2015\Projects\WannaPlay\WannaPlay\obj\Debug\WannaPlay.pdb
+C:\Users\Zeus\Documents\Visual Studio 2015\Projects\WannaPlay\WannaPlay\bin\Debug\WannaPlay.exe
+C:\Users\Zeus\Documents\Visual Studio 2015\Projects\WannaPlay\WannaPlay\bin\Debug\WannaPlay.pdb
+C:\Users\Zeus\Documents\Visual Studio 2015\Projects\WannaPlay\WannaPlay\bin\Debug\EntityFramework.dll
+C:\Users\Zeus\Documents\Visual Studio 2015\Projects\WannaPlay\WannaPlay\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Zeus\Documents\Visual Studio 2015\Projects\WannaPlay\WannaPlay\bin\Debug\MySql.Data.dll
+C:\Users\Zeus\Documents\Visual Studio 2015\Projects\WannaPlay\WannaPlay\bin\Debug\System.Data.SQLite.dll
+C:\Users\Zeus\Documents\Visual Studio 2015\Projects\WannaPlay\WannaPlay\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\Zeus\Documents\Visual Studio 2015\Projects\WannaPlay\WannaPlay\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\Zeus\Documents\Visual Studio 2015\Projects\WannaPlay\WannaPlay\bin\Debug\Microsoft.VisualStudio.DebuggerVisualizers.dll
+C:\Users\Zeus\Documents\Visual Studio 2015\Projects\WannaPlay\WannaPlay\bin\Debug\EntityFramework.xml
+C:\Users\Zeus\Documents\Visual Studio 2015\Projects\WannaPlay\WannaPlay\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Zeus\Documents\Visual Studio 2015\Projects\WannaPlay\WannaPlay\bin\Debug\System.Data.SQLite.xml
+C:\Users\Zeus\Documents\Visual Studio 2015\Projects\WannaPlay\WannaPlay\bin\Debug\Microsoft.VisualStudio.DebuggerVisualizers.xml
+C:\Users\Zeus\Documents\Visual Studio 2015\Projects\WannaPlay\WannaPlay\obj\Debug\WannaPlay.Form1.resources
+C:\Users\Zeus\Documents\Visual Studio 2015\Projects\WannaPlay\WannaPlay\obj\Debug\WannaPlay.gameFootageForm.resources
+C:\Users\Zeus\Documents\Visual Studio 2015\Projects\WannaPlay\WannaPlay\obj\Debug\WannaPlay.Properties.Resources.resources
+C:\Users\Zeus\Documents\Visual Studio 2015\Projects\WannaPlay\WannaPlay\obj\Debug\WannaPlay.csproj.GenerateResource.Cache
+C:\Users\ZEUS\Documents\Visual Studio 2015\Projects\WannaPlay\WannaPlay\obj\Debug\WannaPlay.LoadGameForm.resources
+C:\Users\ZEUS\Documents\Visual Studio 2015\Projects\WannaPlay\WannaPlay\obj\Debug\WannaPlay.ShowScore.resources
+C:\Users\ZEUS\Documents\Visual Studio 2015\Projects\WannaPlay\WannaPlay\bin\Debug\WannaPlay.exe.manifest
+C:\Users\ZEUS\Documents\Visual Studio 2015\Projects\WannaPlay\WannaPlay\bin\Debug\WannaPlay.application
+C:\Users\ZEUS\Documents\Visual Studio 2015\Projects\WannaPlay\WannaPlay\obj\Debug\WannaPlay.exe.manifest
+C:\Users\ZEUS\Documents\Visual Studio 2015\Projects\WannaPlay\WannaPlay\obj\Debug\WannaPlay.application
+C:\Users\ZEUS\Documents\Visual Studio 2015\Projects\WannaPlay\WannaPlay\obj\Debug\WannaPlay.csprojResolveAssemblyReference.cache
+C:\Users\ZEUS\Documents\Visual Studio 2015\Projects\WannaPlay\WannaPlay\bin\Wannaplay Build V 1.00\WannaPlay.exe.config
+C:\Users\ZEUS\Documents\Visual Studio 2015\Projects\WannaPlay\WannaPlay\obj\Debug\WannaPlay.EndGame.resources
+D:\งาน\project\NSC\App\16022017 final\WannaPlay\WannaPlay\bin\Debug\WannaPlay.exe.config
+D:\งาน\project\NSC\App\16022017 final\WannaPlay\WannaPlay\obj\Debug\WannaPlay.exe
+D:\งาน\project\NSC\App\16022017 final\WannaPlay\WannaPlay\obj\Debug\WannaPlay.pdb
+D:\งาน\project\NSC\App\16022017 final\WannaPlay\WannaPlay\bin\Debug\WannaPlay.exe.manifest
+D:\งาน\project\NSC\App\16022017 final\WannaPlay\WannaPlay\bin\Debug\WannaPlay.application
+D:\งาน\project\NSC\App\16022017 final\WannaPlay\WannaPlay\bin\Debug\WannaPlay.exe
+D:\งาน\project\NSC\App\16022017 final\WannaPlay\WannaPlay\bin\Debug\WannaPlay.pdb
+D:\งาน\project\NSC\App\16022017 final\WannaPlay\WannaPlay\bin\Debug\Emgu.CV.DebuggerVisualizers.VS2015.dll
+D:\งาน\project\NSC\App\16022017 final\WannaPlay\WannaPlay\bin\Debug\Emgu.CV.UI.dll
+D:\งาน\project\NSC\App\16022017 final\WannaPlay\WannaPlay\bin\Debug\Emgu.CV.UI.GL.dll
+D:\งาน\project\NSC\App\16022017 final\WannaPlay\WannaPlay\bin\Debug\Emgu.CV.World.dll
+D:\งาน\project\NSC\App\16022017 final\WannaPlay\WannaPlay\bin\Debug\EntityFramework.dll
+D:\งาน\project\NSC\App\16022017 final\WannaPlay\WannaPlay\bin\Debug\EntityFramework.SqlServer.dll
+D:\งาน\project\NSC\App\16022017 final\WannaPlay\WannaPlay\bin\Debug\MySql.Data.dll
+D:\งาน\project\NSC\App\16022017 final\WannaPlay\WannaPlay\bin\Debug\System.Data.SQLite.dll
+D:\งาน\project\NSC\App\16022017 final\WannaPlay\WannaPlay\bin\Debug\System.Data.SQLite.EF6.dll
+D:\งาน\project\NSC\App\16022017 final\WannaPlay\WannaPlay\bin\Debug\System.Data.SQLite.Linq.dll
+D:\งาน\project\NSC\App\16022017 final\WannaPlay\WannaPlay\bin\Debug\Microsoft.VisualStudio.DebuggerVisualizers.dll
+D:\งาน\project\NSC\App\16022017 final\WannaPlay\WannaPlay\bin\Debug\ZedGraph.dll
+D:\งาน\project\NSC\App\16022017 final\WannaPlay\WannaPlay\bin\Debug\Emgu.CV.UI.xml
+D:\งาน\project\NSC\App\16022017 final\WannaPlay\WannaPlay\bin\Debug\Emgu.CV.UI.GL.xml
+D:\งาน\project\NSC\App\16022017 final\WannaPlay\WannaPlay\bin\Debug\Emgu.CV.World.xml
+D:\งาน\project\NSC\App\16022017 final\WannaPlay\WannaPlay\bin\Debug\EntityFramework.xml
+D:\งาน\project\NSC\App\16022017 final\WannaPlay\WannaPlay\bin\Debug\EntityFramework.SqlServer.xml
+D:\งาน\project\NSC\App\16022017 final\WannaPlay\WannaPlay\bin\Debug\System.Data.SQLite.xml
+D:\งาน\project\NSC\App\16022017 final\WannaPlay\WannaPlay\bin\Debug\Microsoft.VisualStudio.DebuggerVisualizers.xml
+D:\งาน\project\NSC\App\16022017 final\WannaPlay\WannaPlay\bin\Debug\ZedGraph.xml
+D:\งาน\project\NSC\App\16022017 final\WannaPlay\WannaPlay\bin\Debug\zh-CN\ZedGraph.resources.dll
+D:\งาน\project\NSC\App\16022017 final\WannaPlay\WannaPlay\obj\Debug\WannaPlay.csprojResolveAssemblyReference.cache
+D:\งาน\project\NSC\App\16022017 final\WannaPlay\WannaPlay\obj\Debug\WannaPlay.EndGame.resources
+D:\งาน\project\NSC\App\16022017 final\WannaPlay\WannaPlay\obj\Debug\WannaPlay.Form1.resources
+D:\งาน\project\NSC\App\16022017 final\WannaPlay\WannaPlay\obj\Debug\WannaPlay.gameFootageForm.resources
+D:\งาน\project\NSC\App\16022017 final\WannaPlay\WannaPlay\obj\Debug\WannaPlay.LoadGameForm.resources
+D:\งาน\project\NSC\App\16022017 final\WannaPlay\WannaPlay\obj\Debug\WannaPlay.Properties.Resources.resources
+D:\งาน\project\NSC\App\16022017 final\WannaPlay\WannaPlay\obj\Debug\WannaPlay.ShowScore.resources
+D:\งาน\project\NSC\App\16022017 final\WannaPlay\WannaPlay\obj\Debug\WannaPlay.csproj.GenerateResource.Cache
+D:\งาน\project\NSC\App\16022017 final\WannaPlay\WannaPlay\obj\Debug\WannaPlay.exe.manifest
+D:\งาน\project\NSC\App\16022017 final\WannaPlay\WannaPlay\obj\Debug\WannaPlay.application

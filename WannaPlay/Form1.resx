@@ -1,0 +1,187 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <metadata name="initialtimer.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>17, 17</value>
+  </metadata>
+  <data name="richTextBox1.Text" xml:space="preserve">
+    <value>	ระบบช่วยนับคะแนนโดมิโน ใช้สำหรับช่วยนับและตรวจสอบความถูกต้องของการเล่นโดมิโน พัฒนาโดยนักศึกษาภาควิชาวิศวกรรมคอมพิวเตอร์  คณะวิศวกรรมศาสตร์
+
+มหาวิทยาลัยเกษตรศาสตร์ วิทยาเขตดำแพงแสน
+
+ผู้พัฒนา
+นายกฤษดา ดวงมาลา
+นายกิตติคุณ วิทยาภาสิทธิ์
+
+อาจารย์ที่ปรึกษา
+อ.ดร.ปาริฉัตร  เสริมวุฒิสาร
+
+เสียงประกอบ
+นางสาวนาริสา ยีบากา
+
+อนุเคราะห์สถานที่
+ภาควิชาวิศวกรรมคอมพิวเตอร์ 
+มหาวิทยาลัยเกษตรสาสตร์ วิทยาเขต กำแพงแสน
+
+ได้รับทุนสนับสนุนจาก
+ศูนย์เทคโนโลยีอิเล็กทรอนิกส์และคอมพิวเตอร์แห่งชาติ
+สำนักงานพัฒนาวิทยาศาสตร์และเทคโนโลยีแห่งชาติ</value>
+  </data>
+  <data name="richTextBox2.Text" xml:space="preserve">
+    <value>1. กติกาการเล่นโดมิโนสากล [6]
+ 1.1 เริ่มต้น
+หลังจากทำการสลับและคว่ำหน้าโดมิโนทั้งหมดแล้ว ให้ผู้เล่นหยิบโดมิโนขึ้นมาจากกองกลาง
+คนละหนึ่งตัว เพื่อตัดสินว่าใครจะได้เป็นผู้เริ่มเล่นก่อน โดยนับจากผู้ที่ได้แต้มสูงที่สุด จากนั้นให้นำตัวโดมิโนกลับเข้ากองกลางดังเดิม เมื่อผู้เล่นทุกคนพร้อมแล้วให้หยิบโดมิโนขึ้นมา 7  ตัว เพื่อเริ่มเล่นเกม
+1.2 วิธีการเล่น
+ให้ผู้เล่นคนแรกวางตัวโดมิโนที่มีค่าใดๆลงบนกระดาน จากนั้นให้ผู้เล่นคนต่อไปลงโดมิโนที่มีแต้มเดียวกันต่อจากตัวเริ่มต้น ทำต่อไปเรื่อยๆทีละหนึ่งครั้งตามลำดับของผู้เล่น หากผู้เล่นคนใดไม่มีตัวโดมิโนที่สามารถลงต่อได้ ให้ทำการจั่วเพิ่มจากกองกลางจนกว่าจะสามารถเล่นเกมต่อได้ และเมื่อผู้เล่นคนใดไม่เหลือโดมิโนอยู่บนมือแล้ว หรือมีคะแนนถึงจุดที่กำหนดจะถือว่าผู้เล่นเป็นผู้ชนะในรอบนั้นๆ  โดยวิธีการต่อตัวโดมิโนที่ถูกต้องจะเป็นดังรูปที่ 2 ก). และ 2 ข).
+1.3 การนับคะแนน
+ ผู้เล่นจะต้องต่อโดมิโดให้แต้มของปลายทั้งสองข้างรวมกันมีค่าเท่ากับห้า หรือผลคูณของห้าเพื่อให้ได้คะแนน  
+      1.3.1 เมื่อผู้เล่นคนใดไม่มีโดมิโนเหลืออยู่
+             หากมีผู้เล่นคนใดต่อโดมิโนในมือจนหมดแล้วจะได้รับคะแนนของตัวโดมิโนทั้งหมดในมือของผู้เล่นฝ่ายตรงข้ามโดยปัดลงเป็นจำนวนมากที่สุดที่หารห้าลงตัว
+      1.3.2 เมื่อผู้เล่นทุกคนไม่สามารถเล่นเกมต่อได้
+     	 หากผู้เล่นทุกคนไม่สามารถเล่นเกมต่อได้ และไม่เหลือโดมิโนในกองกลางแล้วจะถือว่าผู้เล่นที่มีแต้มของโดมิโนในมือน้อยที่สุดเป็นฝ่ายชนะและได้รับแต้มไปในรอบนั้นๆ โดยคะแนนที่ได้รับจะคิดจากแต้มรวมในมือของฝ่ายตรงข้ามลบกับแต้มของผู้ชนะ และปัดลงให้เป็นจำนวนมากที่สุดที่หารห้าลงตัว
+1.4 การหาผู้ชนะ
+ผู้เล่นเกมโดมิโนจะเล่นสะสมคะแนนไปเรื่อยๆโดยไม่จำกัดจำนวนครั้ง จนกว่าจะมีผู้เล่นคนใดคนหนึ่งมีคะแนนถึงจุดที่กำหนดไว้ จะถือว่าเป็นผู้ชนะโดยจุดจบของเกมนั้นจะถูกกำหนดจากข้อตกลงของผู้เล่นหรือกรรมการ โดยส่วนมากแล้วจะถูกกำหนดให้จบเกมเมื่อมีผู้เล่นคนใดมีคะแนนถึง 100 ก่อน</value>
+  </data>
+  <assembly alias="System.Drawing" name="System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+  <data name="$this.Icon" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+    <value>
+        AAABAAEAEBAAAAEAIABoBAAAFgAAACgAAAAQAAAAIAAAAAEAIAAAAAAAAAAAABMLAAATCwAAAAAAAAAA
+        AACdlpILPTQvADAnIjswJyNANCsmPjAnIjUwJyI9MyolQTIpJDowJyI4MCciQDQrJj8wJyI2LyYiPDw0
+        L0ClnpgGSkE8AEQ7N/9tZmL/b2hj/3JqZf9xamX/bWVh/2RdWP8tIx7/LyUg/y8lIP8wJyH/LyUg/y8l
+        IP8wJiH/S0I9/0M6NUNtZmH/c21pAUlBPQTGv7gJW1RPAEM7Nii4sKoLKR8a7i8lIP8vJSD/MCch/y8l
+        IP8vJSD/MCYh/zsyLf9EOjVCbmhk/z01MgAmHBf/vLWvdjw0L0QsIx3/tq6oIikfGu4vJSD/LyUg/zYt
+        KP8sIx7/LyUg/zAmIf87Mi3/Qzo1QmpjXv/AubIErKahl8nCuwjFvrcAu7OuQLiwqgspHxruLyUg/ysi
+        Hf/Gv7khe3RvAC8lIP8wJiH/OzIu/0Q6NUJsZWD/cmxoATgvKy++trAJW1RPADAoJIy0rKYLKR8a7i8l
+        H/8sIh3/fXVwAE9HQgAvJSD/MCYh/zsyLv9EOjVCbWZi/1ROSwAlHBf/tK2nyVBIQwArIh3/sqqlZSkf
+        Gu5HPzv/LyUg/zAmIf8vJSD/LyUg/zAmIf87Mi3/RDo1Qk1GQf90bWkBaWNeKYB5cwl8dXAAcmxnAnhw
+        awsrIRzuVExIwzAmIP8wJyH/LyUg/y8lIP8wJiH/QTgz/0Q6NUJNRkH/dW5p/3JrZv+AeHP/fHVw/3hx
+        bP94cGv/KyEc/1NMSMMvJSD/LyUg/y4kH/8uJB//LCMd/29oY/9EOjVCbmdj/0U/OwMrIh7rv7eyAszF
+        vQDIwLoHuLCqCykfGe6DfHbDkIiC45aOiMiUjIbFj4eCx5+Zk8jNxb4ARDo1Qm1nYv9aU1AAOTEs/8K6
+        tFDMxb0AyMC6B7iwqgspHxnumpOMw8a/uQvJwbsJzMW+AMjBugbGv7kMzcW+BEQ6NUJqY17/zMS9Ace/
+        uQHJwrsIvravAKOclwe5sasLKR8Z7pqTjMPGv7kLycG7CczFvgDIwboGxr+5DM3FvgREOjVCamNe/8rD
+        vAHGvrkLzcW+CDYuKQAnHRn/rqehACkeGu6akozDxr+5C8nBuwnMxb4AyMG6Bsa/uQzNxb4EQzo1Qmtk
+        X//Kw7wBxr65C8vDvQh9dW8AVU1I/7iwqwsoHhnumpOMw8a/uQvJwbsJzMW+AMjBugbGv7kMzcW+BEpC
+        PDxDOzf/bGVgAW1lYQpyamUHb2hjAG1lYQZkXVgKKR8b+6CZk77Gv7kLycG7CczFvgDIwboGxr+5DM3F
+        vgSclpIGPTQv/zAnIv8xJyP/NCsm/zAnIv8wJiL/NSsn/25mYv/Nxr8Axr+5C8nBuwnMxb4AyMG6Bsa/
+        uQzNxb4E//8AAIAAAAC/gAAArYAAAL+YAAC/mAAArYAAAL/AAACAQAAAv/8AAK//AAC//wAAvf8AAL3/
+        AAC//wAAgH8AAA==
+</value>
+  </data>
+</root>
